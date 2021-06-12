@@ -4,7 +4,7 @@
 
 ⚡ Interest in Web Development
 
-🌱 I’m currently learning at SMK Wikrama Bogor with majors Software Engineering
+🌱 I’m fresh graduate from SMK Wikrama Bogor with majors Software Engineering
 
 📫 You can reach me on :  [Instagram](https://www.instagram.com/marchellaps2/) / [LinkedIn](https://www.linkedin.com/in/marchella-putri-sannie/) / [My Portfolio Website](https://marchellaps.herokuapp.com/)
 
