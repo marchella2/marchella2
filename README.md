@@ -2,8 +2,8 @@
 
 ### I'm Marchella Putri Sannie
 
-⚡ Interest in Web Development
-🌱 I'm currently learning **Java**
+- ⚡ Interest in Web Development
+- 🌱 I'm currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
